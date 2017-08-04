@@ -1,307 +1,307 @@
 Kood,Ehitise kasutamise otstarve
-11000, ELAMUD
-11100, Ühe korteriga elamud
-11101, Üksikelamu
-11102, Ridaelamu või kaksikelamu sektsioon (juhul kui on oma katus ja sissepääs maapinnalt)
-11103," Suvila, aiamaja"
-11200, Kahe või mitme korteriga elamud
-11210, Kahe korteriga elamud
-11212, Kahe korteriga elamu
-11220, Kolme või enama korteriga elamud
-11221, Ridaelamu
-11222, Muu kolme või enama korteriga elamu
-11300, Hoolekandeasutuste ja ühiselamute hooned
-11310, Hoolekandeasutuste hooned
-11311, Päevakeskus
-11312, Tugikodu
-11313, Varjupaik
-11314, Lastekodu
-11315, Noortekodu
-11316, Üldhooldekodu
-11317, Koolkodu
-11318, Sotsiaalse rehabilitatsiooni keskus
-11319, Erihooldekodu
-11320, Ühiselamud
-11321, Ühiselamu üliõpilastele või õpilastele
-11322, Ühiselamu teistele sotsiaalsetele gruppidele
-12000, MITTEELAMUD
-12100, Majutus- ja toitlustushooned
-12110, Majutushooned
-12111," Hotell, motell, külalistemaja"
-12121, Puhkeküla või puhkelaagri majutushoone
-12123, Hostel
-12129, Muu lühiajalise majutuse hoone
-12130, Toitlustushooned
-12131, Restoran
-12132," Kohvik, baar või söökla"
-12139, Muu toitlustushoone
-12200, Büroohooned
-12201, Büroohoone
-12300, Kaubandus- ja teenindushooned
-12310, Kaubandushooned
-12311, Kaubandushoone
-12314, Kiosk
-12317," Oksjoni-, turu- või näitusehall"
-12319, Muu kaubandushoone
-12330, Teenindushoone
-12331, Ilu- ja isikuteenuste hoone
-12332, Sõidukite teeninduse hoone
-12339, Muu teenindushoone
-12400, Transpordihooned
-12410, Terminalid
-12411, Lennujaama hoone
-12413, Raudteejaama hoone
-12415, Bussijaama hoone
-12416, Sadamahoone
-12419, Muu terminalihoone
-12430, Garaažid
-12431, Garaaž
-12432, Parkimismaja
-12439, Muu garaaž
-12500, Tööstus- ja laohooned
-12510, Tööstushooned
-12511, Maavarade kaevandamise ja töötlemise hoone
-12512, Energeetikatööstuse hoone
-12513, Keemiatööstuse hoone
-12514, Toiduainetetööstuse hoone
-12515, Ehitusmaterjalide ja -toodete tööstuse hoone
-12516, Kergetööstuse hoone
-12517, Puidutööstuse hoone
-12518, Masina- ja seadmetööstuse hoone
-12519, Muu tööstushoone
-12520, Hoidlad ja laohooned
-12521, Toiduainete laohoone
-12523," Vedelkütuse-, küttegaasi- jm terminali hoidlahoone"
-12525, Külmhoone
-12529, Muu laohoone
-12600," Meelelahutus-, haridus- tervishoiu- ja muud avalikud hooned"
-12610, Meelelahutushooned
-12611," Teater, kino, kontserdi- ja universaalsaalide hoone"
-12615," Klubi, rahvamaja"
-12616," Tantsusaal, diskoteek, ööklubi"
-12617, Kasiino
-12618, Loomaaia või botaanikaaia hoone
-12619, Muu meelelahutushoone
-12620, Muuseumi- ja raamatukoguhooned
-12621," Muuseum, kunstigalerii"
-12623, Raamatukogu
-12624, Arhiiv
-12630, Haridus- ja teadushooned
-12631," Koolieelne lasteasutus (lastesõim, -aed, päevakodu, lasteaed-algkool)"
-12632, Põhikooli või gümnaasiumi õppehoone
-12633, Kutseõppeasutuse õppehoone
-12634," Ülikooli, rakenduskõrgkooli õppehoone"
-12635, Teadus- ja metoodikaasutuse hoone
-12639, Muu haridus- või teadushoone
-12640, Haiglad ja muud ravihooned
-12641, Haigla
-12643, Kinnipidamiskoha haigla
-12644, Ambulatoorse arstiabi osutamise hoone
-12645," Sanatoorium, spaa"
-12646, Veterinaarkliinik
-12649, Muu tervishoiuhoone
-12650, Spordihooned
-12651," Spordihall, võimla"
-12653, Siseujula
-12654, Jäähall
-12655, Maneež
-12656, Lasketiiru hoone
-12659, Muu spordihoone
-12700, Muud mitteelamud
-12710," Põllumajanduse, metsa-, jahi- ja kalamajandushooned"
-12711," Loomakasvatushoone, sealhulgas karuslooma- või linnukasvatus"
-12714, Teraviljakuivati
-12715, Loomasööda hoidla
-12718, Mineraalväetiste või taimekaitsevahendite hoidla
-12719," Muu põllu-, metsa-, jahi- või kalamajandushoone"
-12720, Kultus- ja tavandihooned
-12721," Kirik, katedraal, mošee, sünagoog, palvemaja või kabel"
-12723, Krematoorium
-12730, Ajaloolised või kaitse all olevad hooned
-12731, Ajalooline või kaitse all olev hoone
-12732, Muinsuskaitse all olev vare
-12740, Erihooned
-12741, Reoveepuhasti hoone
-12742, Karistusasutuse hoone
-12743, Päästeteenistuse hoone
-12744," Elamu, kooli vms abihoone"
-12745," Katlamaja, boilerjaam"
-12746, Kaevumaja
-12747, Veepuhastusjaama hoone
-12748, Jäätmekäitluse hoone
-12749, Muu erihoone
-21000, TRANSPORDIRAJATISED
-21100, Teed
-21110, Maanteed
-21120, Tänavad
-21200, Raudteerajatised
-21210, Raudtee
-21211, Raudtee
-21212, Jaamateed
-21213, Meldepunkti rajatis
-21214, Reisi- või kaubaplatvorm
-21215, Ülekäigu- ja ülesõidukoht
-21216," Raudtee ohutus-, signalisatsiooni-, turva-, side-, valgustus- või energiarajatis või tehnorajatis"
-21217, Raudtee kaitserajatis
-21219, Muu raudtee sihtotstarbeliseks kasutamiseks vajalik rajatis
-21220, Linnaraudtee
-21221, Trammitee
-21222, Linnaraudtee jaamatee
-21224, Linnaraudtee reisijateplatvorm
-21225, Linnaraudtee ülekäigu- ja ülesõidukoht
-21226," Linnaraudtee ohutus-, signalisatsiooni-, turva-, side-, valgustus-, energia- või muu tehnorajatis"
-21229, Muu linnaraudtee sihtotstarbeliseks kasutamiseks vajalik rajatis
-21300, Õhutranspordirajatised
-21310, Lennuväljad
-21311, Lennuvälja stardi- ja maandumisrada
-21312, Lennuvälja teenindustee
-21313, Aeronavigatsiooniline rajatis
-21314," Lennuvälja ohutus-, signalisatsiooni-, turva-, side-, valgustus-, energia- või tehnorajatis"
-21319, Muu lennuväljarajatis
-21400," Sillad, estakaadid, tunnelid"
-21410, Sillad ja estakaadid
-21420, Tunnelid
-21500, Veetranspordirajatised
-21510, Sadamarajatised ja kanalid
-21511, Sadama kai
-21512," Kalda- või ujuvramp, ujuvkai, slipp"
-21513," Lainemurdja, muul"
-21514," Navigatsioonimärk, v.a majakas"
-21515," Sadama juurde kuuluv galerii (reisijatele, kaubale)"
-21516," Laevatatav kanal, lüüs"
-21517," Sadama ohutus-, turva-, side-, valgustus- ja energia- või tehnorajatis"
-21518, Mere või siseveekogu põhja selle süvendamise teel rajatud laevakanal
-21519, Muu sadama juurde kuuluv rajatis
-21520, Tammid ja paisud
-21521, Tamm
-21522, Pais
-21523, Kaldakindlustus
-21530," Akveduktid, niisutus- ja kuivendusrajatised"
-21531, Niisutusrajatis
-21532, Kuivendusrajatis
-21533," Veehoidla, bassein"
-21534, Akvedukt
-21539, Muu niisutus- või kuivendusrajatis
-21600, Köisteed
-21601, Funikulaarraudtee
-21602, Köissõiduk
-21603, Vedamislift
-21604, Muu nimetamata köistee
-22000," TORUJUHTMED, SIDE- JA ELEKTRILIINID"
-22100," Magistraaltorujuhtmed, side- ja elektriliinid"
-22110," Küttegaasi ülekandetorustik, ülerõhuga üle 16 bar"
-22111," Küttegaasi A kategooria jaotustorustik, ülerõhuga kuni 0,1 bar"
-22112," Küttegaasi B ja C kategooria jaotustorustik, ülerõhuga üle 0,1 kuni 16 bar"
-22113," Küttegaasi D kategooria jaotustorustik, ülerõhuga üle 16 bar"
-22114, Küttegaasi jaotus- ja mõõtejaamad
-22115," Küttegaasi tankimis- ja villimisjaamad maa-, vedel-, bio- ja tööstusgaasidele"
-22116, LNG terminal
-22117, Küttegaasihoidla
-22118, Küttegaasi kompressorjaam
-22119, Küttegaasi muud ehitised
-22120, Magistraalveetorustikud
-22121, Magistraalveetorustik
-22122, Pinnaveehaare
-22123, Kaugkütte magistraaltorustik
-22129, Muu nimetamata magistraalveetorustiku rajatis
-22130," Side, raadio ja televisiooni magistraalsed ülekanderajatised"
-22131," Side, raadio või televisiooni magistraalne õhu- või kaabelülekandeliin või süsteem"
-22132," Raadio, televisiooni või mobiiltelefoni saate- või ülekandemast"
-22133," Muu side, raadio või televisiooni magistraalne ülekanderajatis"
-22140," Elektrienergia ülekandeliinid, välja arvatud kohalik elektrivalgustus (22240)"
-22141, 35–110 kV õhuliin
-22142, 110 kV ja kõrgema pingega õhuliin
-22143, Maakaabelliin
-22144, Veekaabelliin
-22145, 110 kV ja kõrgema pingega trafoalajaam
-22149, Muu elektrienergia ülekandeliiniga seotud rajatis
-22200," Kohalikud torustikud, elektri- ja sideliinid"
-22210, Gaasijaotustorustikud
-22211, Gaasijaotustorustik arvestusrõhuga kuni 5 bar
-22212, Regulaatorpunkt arvestusrõhuga kuni 5 bar
-22213, Gaasihoidla rajatis
-22219, Muu gaasivarustusega seotud rajatis
-22220, Veejaotustorustikud
-22221, Külmaveetorustik
-22222, Soojaveetorustik
-22223, Kaugküttetorustik
-22224, Puurauk
-22225, Veetorn (rajatis)
-22226, Salvkaev
-22227, Hüdrant
-22228, Puurkaev
-22229, Muu kohaliku veetorustikuga seotud rajatis
-22230, Kanalisatsiooniehitised
-22231, Kanalisatsioonitorustik
-22232, Reovee kollektor
-22233, Reoveepuhasti
-22234, Veepumpla
-22235, Reoveepumpla
-22239," Muu reovee kogumise, puhastamise ja heitvee suublasse juhtimisega seotud rajatis"
-22240, Elektrijaotusvõrgud ja sideliinid
-22241, kuni 1 kV jaotusvõrgu elektri õhuliin
-22242, üle 1 kV ja kuni 35 kV jaotusvõrgu elektri õhuliin
-22243, Elektri maakaabelliin
-22244, Elektri merekaabelliin
-22245, Side õhu- või kaabelliin
-22246, 6–35 kV alajaam ja jaotusseade
-22247, Televisioonikaabel või ühisantenn
-22249, Muu kohalik elektrijaotusvõrgu või sideliini rajatis
-23000, TÖÖSTUSEHITISTE JUURDE KUULUVAD RAJATISED
-23010, Maavarade kaevandamise ja töötlemise rajatised
-23011, Kaevandusrajatis
-23012, Karjäärirajatis
-23020, Energiatööstuse rajatised
-23021, Hüdroelektrijaama rajatis
-23022, Soojuselektrijaama rajatis
-23023, Tuuleelektrijaama rajatis
-23024, Tuumaelektrijaama rajatis
-23025, Korsten
-23029, Muu energiatööstuse rajatis
-23030, Keemiatööstuse rajatised
-23031, Keemiatööstuse rajatis
-23040, Rasketööstuse rajatis
-23041, Rasketööstuse rajatis
-23050, Muude tööstusharude rajatised
-23051, Toiduainetetööstuse rajatis
-23052, Ehitusmaterjalide ja -toodete tööstuse rajatis
-23053, Kergetööstuse rajatis
-23054, Puidutööstuse rajatis
-23055, Masina- ja seadmetööstuse rajatis
-23059, Muu nimetamata tööstusharu rajatis
-24000, MUUD RAJATISED
-24100, Spordi- ja puhkerajatised
-24110," Staadionid ja spordiväljakud, välja arvatud mängu- ja golfiväljakud (24123), lõbustus- ja puhkepargid (24121)"
-24111, Spordiväljak või staadion
-24112, Liuväli
-24113," Veespordirajatis, välisujula"
-24114," Motodroom, motoringrada"
-24115, Velodroom
-24116, Hipodroom
-24120, Muud spordi- ja puhkerajatised
-24121, Lõbustus- ja puhkepargirajatis
-24122, Botaanikaaia ja loomaaiarajatis
-24123, Golfiväljak
-24124, Supelrannarajatis
-24125, Trampliin
-24127, Rollerirada
-24128, Spordiotstarbelise sadama rajatis või meremärk
-24129, Muu nimetamata spordi- või puhkerajatis
-24200, Muud rajatised
-24210, Erirajatised
-24211, Sisekaitse- või kaitseväerajatis
-24212, Piirdeaiad ja väravad
-24213," Monument, skulptuur, mälestusmärk, purskkaev"
-24214, Eksponeerimisotstarbega rajatis
-24215, Kalmistu
-24216, Prügimäerajatis
-24219, Muu nimetamata rajatis
-24220, Laomajandusrajatised
-24221, Rajatis vedel- või gaasikütuse hoidmiseks
-24222, Elevaator või rajatis puisteaine hoidmiseks
-24223, Laoplats või laoväljak
-24229, Muu nimetamata laomajandusrajatis
-24230," Põllumajanduse, metsa-, jahi- ja kalamajandusrajatised"
-24231, Sõnnikuhoidla rajatis
-24232," Vesiviljelusehitis (tiigid, basseinid, kiirvoolukanalid, regulaatorid, veekogu kohandamiseks vajalikud rajatised, sisekasvatushooned, haudemajad, kalahoidlad, piirderajatised jms)"
-24233, Rajatis põllumajandussaaduste või loomasööda hoidmiseks
+11000,ELAMUD
+11100,Ühe korteriga elamud
+11101,Üksikelamu
+11102,Ridaelamu või kaksikelamu sektsioon (juhul kui on oma katus ja sissepääs maapinnalt)
+11103,"Suvila, aiamaja"
+11200,Kahe või mitme korteriga elamud
+11210,Kahe korteriga elamud
+11212,Kahe korteriga elamu
+11220,Kolme või enama korteriga elamud
+11221,Ridaelamu
+11222,Muu kolme või enama korteriga elamu
+11300,Hoolekandeasutuste ja ühiselamute hooned
+11310,Hoolekandeasutuste hooned
+11311,Päevakeskus
+11312,Tugikodu
+11313,Varjupaik
+11314,Lastekodu
+11315,Noortekodu
+11316,Üldhooldekodu
+11317,Koolkodu
+11318,Sotsiaalse rehabilitatsiooni keskus
+11319,Erihooldekodu
+11320,Ühiselamud
+11321,Ühiselamu üliõpilastele või õpilastele
+11322,Ühiselamu teistele sotsiaalsetele gruppidele
+12000,MITTEELAMUD
+12100,Majutus- ja toitlustushooned
+12110,Majutushooned
+12111,"Hotell, motell, külalistemaja"
+12121,Puhkeküla või puhkelaagri majutushoone
+12123,Hostel
+12129,Muu lühiajalise majutuse hoone
+12130,Toitlustushooned
+12131,Restoran
+12132,"Kohvik, baar või söökla"
+12139,Muu toitlustushoone
+12200,Büroohooned
+12201,Büroohoone
+12300,Kaubandus- ja teenindushooned
+12310,Kaubandushooned
+12311,Kaubandushoone
+12314,Kiosk
+12317,"Oksjoni-, turu- või näitusehall"
+12319,Muu kaubandushoone
+12330,Teenindushoone
+12331,Ilu- ja isikuteenuste hoone
+12332,Sõidukite teeninduse hoone
+12339,Muu teenindushoone
+12400,Transpordihooned
+12410,Terminalid
+12411,Lennujaama hoone
+12413,Raudteejaama hoone
+12415,Bussijaama hoone
+12416,Sadamahoone
+12419,Muu terminalihoone
+12430,Garaažid
+12431,Garaaž
+12432,Parkimismaja
+12439,Muu garaaž
+12500,Tööstus- ja laohooned
+12510,Tööstushooned
+12511,Maavarade kaevandamise ja töötlemise hoone
+12512,Energeetikatööstuse hoone
+12513,Keemiatööstuse hoone
+12514,Toiduainetetööstuse hoone
+12515,Ehitusmaterjalide ja -toodete tööstuse hoone
+12516,Kergetööstuse hoone
+12517,Puidutööstuse hoone
+12518,Masina- ja seadmetööstuse hoone
+12519,Muu tööstushoone
+12520,Hoidlad ja laohooned
+12521,Toiduainete laohoone
+12523,"Vedelkütuse-, küttegaasi- jm terminali hoidlahoone"
+12525,Külmhoone
+12529,Muu laohoone
+12600,"Meelelahutus-, haridus- tervishoiu- ja muud avalikud hooned"
+12610,Meelelahutushooned
+12611,"Teater, kino, kontserdi- ja universaalsaalide hoone"
+12615,"Klubi, rahvamaja"
+12616,"Tantsusaal, diskoteek, ööklubi"
+12617,Kasiino
+12618,Loomaaia või botaanikaaia hoone
+12619,Muu meelelahutushoone
+12620,Muuseumi- ja raamatukoguhooned
+12621,"Muuseum, kunstigalerii"
+12623,Raamatukogu
+12624,Arhiiv
+12630,Haridus- ja teadushooned
+12631,"Koolieelne lasteasutus (lastesõim, -aed, päevakodu, lasteaed-algkool)"
+12632,Põhikooli või gümnaasiumi õppehoone
+12633,Kutseõppeasutuse õppehoone
+12634,"Ülikooli, rakenduskõrgkooli õppehoone"
+12635,Teadus- ja metoodikaasutuse hoone
+12639,Muu haridus- või teadushoone
+12640,Haiglad ja muud ravihooned
+12641,Haigla
+12643,Kinnipidamiskoha haigla
+12644,Ambulatoorse arstiabi osutamise hoone
+12645,"Sanatoorium, spaa"
+12646,Veterinaarkliinik
+12649,Muu tervishoiuhoone
+12650,Spordihooned
+12651,"Spordihall, võimla"
+12653,Siseujula
+12654,Jäähall
+12655,Maneež
+12656,Lasketiiru hoone
+12659,Muu spordihoone
+12700,Muud mitteelamud
+12710,"Põllumajanduse, metsa-, jahi- ja kalamajandushooned"
+12711,"Loomakasvatushoone, sealhulgas karuslooma- või linnukasvatus"
+12714,Teraviljakuivati
+12715,Loomasööda hoidla
+12718,Mineraalväetiste või taimekaitsevahendite hoidla
+12719,"Muu põllu-, metsa-, jahi- või kalamajandushoone"
+12720,Kultus- ja tavandihooned
+12721,"Kirik, katedraal, mošee, sünagoog, palvemaja või kabel"
+12723,Krematoorium
+12730,Ajaloolised või kaitse all olevad hooned
+12731,Ajalooline või kaitse all olev hoone
+12732,Muinsuskaitse all olev vare
+12740,Erihooned
+12741,Reoveepuhasti hoone
+12742,Karistusasutuse hoone
+12743,Päästeteenistuse hoone
+12744,"Elamu, kooli vms abihoone"
+12745,"Katlamaja, boilerjaam"
+12746,Kaevumaja
+12747,Veepuhastusjaama hoone
+12748,Jäätmekäitluse hoone
+12749,Muu erihoone
+21000,TRANSPORDIRAJATISED
+21100,Teed
+21110,Maanteed
+21120,Tänavad
+21200,Raudteerajatised
+21210,Raudtee
+21211,Raudtee
+21212,Jaamateed
+21213,Meldepunkti rajatis
+21214,Reisi- või kaubaplatvorm
+21215,Ülekäigu- ja ülesõidukoht
+21216,"Raudtee ohutus-, signalisatsiooni-, turva-, side-, valgustus- või energiarajatis või tehnorajatis"
+21217,Raudtee kaitserajatis
+21219,Muu raudtee sihtotstarbeliseks kasutamiseks vajalik rajatis
+21220,Linnaraudtee
+21221,Trammitee
+21222,Linnaraudtee jaamatee
+21224,Linnaraudtee reisijateplatvorm
+21225,Linnaraudtee ülekäigu- ja ülesõidukoht
+21226,"Linnaraudtee ohutus-, signalisatsiooni-, turva-, side-, valgustus-, energia- või muu tehnorajatis"
+21229,Muu linnaraudtee sihtotstarbeliseks kasutamiseks vajalik rajatis
+21300,Õhutranspordirajatised
+21310,Lennuväljad
+21311,Lennuvälja stardi- ja maandumisrada
+21312,Lennuvälja teenindustee
+21313,Aeronavigatsiooniline rajatis
+21314,"Lennuvälja ohutus-, signalisatsiooni-, turva-, side-, valgustus-, energia- või tehnorajatis"
+21319,Muu lennuväljarajatis
+21400,"Sillad, estakaadid, tunnelid"
+21410,Sillad ja estakaadid
+21420,Tunnelid
+21500,Veetranspordirajatised
+21510,Sadamarajatised ja kanalid
+21511,Sadama kai
+21512,"Kalda- või ujuvramp, ujuvkai, slipp"
+21513,"Lainemurdja, muul"
+21514,"Navigatsioonimärk, v.a majakas"
+21515,"Sadama juurde kuuluv galerii (reisijatele, kaubale)"
+21516,"Laevatatav kanal, lüüs"
+21517,"Sadama ohutus-, turva-, side-, valgustus- ja energia- või tehnorajatis"
+21518,Mere või siseveekogu põhja selle süvendamise teel rajatud laevakanal
+21519,Muu sadama juurde kuuluv rajatis
+21520,Tammid ja paisud
+21521,Tamm
+21522,Pais
+21523,Kaldakindlustus
+21530,"Akveduktid, niisutus- ja kuivendusrajatised"
+21531,Niisutusrajatis
+21532,Kuivendusrajatis
+21533,"Veehoidla, bassein"
+21534,Akvedukt
+21539,Muu niisutus- või kuivendusrajatis
+21600,Köisteed
+21601,Funikulaarraudtee
+21602,Köissõiduk
+21603,Vedamislift
+21604,Muu nimetamata köistee
+22000,"TORUJUHTMED, SIDE- JA ELEKTRILIINID"
+22100,"Magistraaltorujuhtmed, side- ja elektriliinid"
+22110,"Küttegaasi ülekandetorustik, ülerõhuga üle 16 bar"
+22111,"Küttegaasi A kategooria jaotustorustik, ülerõhuga kuni 0,1 bar"
+22112,"Küttegaasi B ja C kategooria jaotustorustik, ülerõhuga üle 0,1 kuni 16 bar"
+22113,"Küttegaasi D kategooria jaotustorustik, ülerõhuga üle 16 bar"
+22114,Küttegaasi jaotus- ja mõõtejaamad
+22115,"Küttegaasi tankimis- ja villimisjaamad maa-, vedel-, bio- ja tööstusgaasidele"
+22116,LNG terminal
+22117,Küttegaasihoidla
+22118,Küttegaasi kompressorjaam
+22119,Küttegaasi muud ehitised
+22120,Magistraalveetorustikud
+22121,Magistraalveetorustik
+22122,Pinnaveehaare
+22123,Kaugkütte magistraaltorustik
+22129,Muu nimetamata magistraalveetorustiku rajatis
+22130,"Side, raadio ja televisiooni magistraalsed ülekanderajatised"
+22131,"Side, raadio või televisiooni magistraalne õhu- või kaabelülekandeliin või süsteem"
+22132,"Raadio, televisiooni või mobiiltelefoni saate- või ülekandemast"
+22133,"Muu side, raadio või televisiooni magistraalne ülekanderajatis"
+22140,"Elektrienergia ülekandeliinid, välja arvatud kohalik elektrivalgustus (22240)"
+22141,35–110 kV õhuliin
+22142,110 kV ja kõrgema pingega õhuliin
+22143,Maakaabelliin
+22144,Veekaabelliin
+22145,110 kV ja kõrgema pingega trafoalajaam
+22149,Muu elektrienergia ülekandeliiniga seotud rajatis
+22200,"Kohalikud torustikud, elektri- ja sideliinid"
+22210,Gaasijaotustorustikud
+22211,Gaasijaotustorustik arvestusrõhuga kuni 5 bar
+22212,Regulaatorpunkt arvestusrõhuga kuni 5 bar
+22213,Gaasihoidla rajatis
+22219,Muu gaasivarustusega seotud rajatis
+22220,Veejaotustorustikud
+22221,Külmaveetorustik
+22222,Soojaveetorustik
+22223,Kaugküttetorustik
+22224,Puurauk
+22225,Veetorn (rajatis)
+22226,Salvkaev
+22227,Hüdrant
+22228,Puurkaev
+22229,Muu kohaliku veetorustikuga seotud rajatis
+22230,Kanalisatsiooniehitised
+22231,Kanalisatsioonitorustik
+22232,Reovee kollektor
+22233,Reoveepuhasti
+22234,Veepumpla
+22235,Reoveepumpla
+22239,"Muu reovee kogumise, puhastamise ja heitvee suublasse juhtimisega seotud rajatis"
+22240,Elektrijaotusvõrgud ja sideliinid
+22241,kuni 1 kV jaotusvõrgu elektri õhuliin
+22242,üle 1 kV ja kuni 35 kV jaotusvõrgu elektri õhuliin
+22243,Elektri maakaabelliin
+22244,Elektri merekaabelliin
+22245,Side õhu- või kaabelliin
+22246,6–35 kV alajaam ja jaotusseade
+22247,Televisioonikaabel või ühisantenn
+22249,Muu kohalik elektrijaotusvõrgu või sideliini rajatis
+23000,TÖÖSTUSEHITISTE JUURDE KUULUVAD RAJATISED
+23010,Maavarade kaevandamise ja töötlemise rajatised
+23011,Kaevandusrajatis
+23012,Karjäärirajatis
+23020,Energiatööstuse rajatised
+23021,Hüdroelektrijaama rajatis
+23022,Soojuselektrijaama rajatis
+23023,Tuuleelektrijaama rajatis
+23024,Tuumaelektrijaama rajatis
+23025,Korsten
+23029,Muu energiatööstuse rajatis
+23030,Keemiatööstuse rajatised
+23031,Keemiatööstuse rajatis
+23040,Rasketööstuse rajatis
+23041,Rasketööstuse rajatis
+23050,Muude tööstusharude rajatised
+23051,Toiduainetetööstuse rajatis
+23052,Ehitusmaterjalide ja -toodete tööstuse rajatis
+23053,Kergetööstuse rajatis
+23054,Puidutööstuse rajatis
+23055,Masina- ja seadmetööstuse rajatis
+23059,Muu nimetamata tööstusharu rajatis
+24000,MUUD RAJATISED
+24100,Spordi- ja puhkerajatised
+24110,"Staadionid ja spordiväljakud, välja arvatud mängu- ja golfiväljakud (24123), lõbustus- ja puhkepargid (24121)"
+24111,Spordiväljak või staadion
+24112,Liuväli
+24113,"Veespordirajatis, välisujula"
+24114,"Motodroom, motoringrada"
+24115,Velodroom
+24116,Hipodroom
+24120,Muud spordi- ja puhkerajatised
+24121,Lõbustus- ja puhkepargirajatis
+24122,Botaanikaaia ja loomaaiarajatis
+24123,Golfiväljak
+24124,Supelrannarajatis
+24125,Trampliin
+24127,Rollerirada
+24128,Spordiotstarbelise sadama rajatis või meremärk
+24129,Muu nimetamata spordi- või puhkerajatis
+24200,Muud rajatised
+24210,Erirajatised
+24211,Sisekaitse- või kaitseväerajatis
+24212,Piirdeaiad ja väravad
+24213,"Monument, skulptuur, mälestusmärk, purskkaev"
+24214,Eksponeerimisotstarbega rajatis
+24215,Kalmistu
+24216,Prügimäerajatis
+24219,Muu nimetamata rajatis
+24220,Laomajandusrajatised
+24221,Rajatis vedel- või gaasikütuse hoidmiseks
+24222,Elevaator või rajatis puisteaine hoidmiseks
+24223,Laoplats või laoväljak
+24229,Muu nimetamata laomajandusrajatis
+24230,"Põllumajanduse, metsa-, jahi- ja kalamajandusrajatised"
+24231,Sõnnikuhoidla rajatis
+24232,"Vesiviljelusehitis (tiigid, basseinid, kiirvoolukanalid, regulaatorid, veekogu kohandamiseks vajalikud rajatised, sisekasvatushooned, haudemajad, kalahoidlad, piirderajatised jms)"
+24233,Rajatis põllumajandussaaduste või loomasööda hoidmiseks
